@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/pranavnm009123/pranavnm009123/main/professional_tech_banner.png" width="900" alt="Pranav — ECE @ UC Davis | AI | Robotics | Embedded Systems" />
+  <img src="https://raw.githubusercontent.com/pranavnm009123/pranavnm009123/main/banner.png" width="900" alt="Pranav — ECE @ UC Davis | AI | Robotics | Embedded Systems" />
 </div>
 
 <br/>
