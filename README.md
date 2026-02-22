@@ -84,7 +84,7 @@ I'm a passionate engineer who builds intelligent systems that **perceive, reason
 
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=pranavnm009123&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=pranavnm009123&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://streak-stats.demolab.com/?user=pranavnm009123&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
