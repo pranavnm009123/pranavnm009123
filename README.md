@@ -25,14 +25,13 @@
 
 ### 🚀 About Me
 
-I'm a passionate engineer who builds intelligent systems that **perceive, reason, and act** in the real world. Currently pursuing my **M.S. in Electrical & Computer Engineering at UC Davis**, with a focus on AI, Computer Vision, and Embedded Systems.
+I build intelligent systems that **perceive, reason, and act** — from LLM security firewalls to robots that sort trash. Currently pursuing my **M.S. in ECE at UC Davis**, shipping 20+ projects across AI, full-stack, and embedded systems.
 
 ```yaml
 🎓 Education:  M.S. ECE @ UC Davis (2025–2027) | GPA: 3.8/4.0
                B.Tech CSE (AI & Robotics) @ VIT (2021–2025)
 📍 Location:   Davis, California
 🔬 Research:   Fog-Cloud Task Scheduling · NLP · Driver Safety Systems
-🤖 Fun Fact:   Built a robot that sorts trash with 94% accuracy!
 ⚡ Status:     Open to research collaborations & Summer 2026 internships
 ```
 
@@ -80,27 +79,30 @@ I'm a passionate engineer who builds intelligent systems that **perceive, reason
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=pranavnm009123&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranavnm009123&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-</div>
-
----
-
 ### 🌟 Featured Projects
 
-| 🏷️ Project | 📝 Description | 🔧 Stack | 🎯 Result |
-|---|---|---|---|
-| 🧠 **Resume Classification** | Multi-model NLP pipeline using TF-IDF, ML, and DistilBERT to classify resumes into job domains | Python · NLP · Transformers | ~90% accuracy |
-| 🤖 **Smart Trash Sorting Robot** | CNN + Raspberry Pi + servo arm to classify waste into plastic, metal, and paper | TensorFlow · RPi · CV | **94% accuracy** |
-| 🚗 **Driver Drowsiness Detection** | Real-time eye-blink & yawn detection; <120 ms latency, 40% fewer false positives | OpenCV · CNN · dlib | >95% accuracy |
-| 🧬 **Brain Tumor Detection** | CNN to classify brain MRI scans with intensity normalization and noise reduction | TensorFlow · MRI | **96% accuracy** |
-| 🚦 **Traffic Signal Optimization** | DSOS integrating 5+ ML models with 50+ IoT sensors for urban signal control | ML · IoT · DS | −18% delay |
+| Project | Description | Stack |
+|---|---|---|
+| **NeuralScraper** | Adaptive web crawler using LLMs to understand page semantics — resilient to UI changes, handles JS-heavy SPAs | Python · Playwright · LLMs |
+| **LLM Firewall** | Security shield for LLM interactions — prevents prompt injection & adversarial attacks using layered safety checks | Python · AI Safety |
+| **Video RAG Pipeline** | Privacy-first, fully local multimodal RAG for video — integrates FFmpeg, Whisper, and CLIP for semantic search | FastAPI · ChromaDB · Whisper |
+| **Finance OS** | Secure web app for financial health tracking with automated envelope budgeting and social ledger | React · Supabase · PostgreSQL |
+| **Smart Trash Sorting Robot** | CNN + Raspberry Pi + servo arm to classify waste into plastic, metal, and paper — **94% accuracy** | TensorFlow · RPi · CV |
+| **Driver Drowsiness Detection** | Real-time eye-blink & yawn detection with <120 ms latency — **>95% accuracy** | OpenCV · CNN · dlib |
+
+<details>
+<summary><b>More Projects</b></summary>
+<br/>
+
+| Category | Projects |
+|---|---|
+| **AI & LLMs** | Stock Analyser (LLM-powered technical analysis) · RAG Document Intelligence (PDF to vector embeddings with RAGAS metrics) · Intelligent Chat-Bot (enterprise RAG agent) · Resume Classification (~90% acc with DistilBERT) |
+| **Research & Math ML** | Latent Diffusion Geometry (U-Net bottleneck visualization via PCA/UMAP) · ICA vs Sparse Coding (replicating V1 receptive fields) · Brain Tumor Detection (96% acc on MRI scans) |
+| **Optimization** | Traffic Signal Optimization (5+ ML models, 50+ IoT sensors, -18% delay) · Hospital Patient Flow (MILP/FJSP scheduling) |
+| **Robotics & Hardware** | Robotic Arm with 3-DOF · Obstacle Avoidance Robot · Quadcopter Simulation (MATLAB Simulink) · Baby Diaper Alert (IoT) · Temperature Controlled Gate |
+| **Web & Automation** | Daily Task Manager (Node.js/MongoDB) · Automated ID Card Generation (UiPath RPA) |
+
+</details>
 
 ---
 
@@ -120,6 +122,18 @@ I'm a passionate engineer who builds intelligent systems that **perceive, reason
 
 - 📄 **Multi-Objective Optimization-Based Hybrid Task Scheduling for Fog-Cloud with IoT** — *(Upcoming)*
 - 🎤 **Technical Lead, Microsoft Innovations Club** — Organized *"How Hackers Really Hack"* for 100+ participants
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=pranavnm009123&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranavnm009123&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+</div>
 
 ---
 
